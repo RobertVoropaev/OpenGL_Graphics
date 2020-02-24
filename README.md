@@ -9,18 +9,18 @@
 2 | 15 февраля | [Шейдеры](https://docs.google.com/presentation/d/1uJYBbgDtWnDAvi_6s3Pj6oR0mVJ0XIqXm6ch5_CqGaQ/edit?usp=sharing)
 - | 22 февраля | Неучебный день - олимпиада МФТИ
 3 | 29 февраля | Преобразование координат
-4 | 7 марта | [Прием задания 1](https://bitbucket.org/AndrewFedorov/opengl_samples/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+4 | 7 марта | [Прием задания 1](https://bitbucket.org/arina5arina/opengl_tasks_2020/wiki/Home)
 5 | 14 марта | Освещение
 6 | 21 марта | Текстурирование
 7 | 28 марта | Буфер глубины
 8 | 4 апреля | Тени
 9 | 11 апреля | Отложенный рендеринг
-10 | 18 апреля | [Прием задания 2](https://bitbucket.org/AndrewFedorov/opengl_samples/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+10 | 18 апреля | [Прием задания 2](https://bitbucket.org/arina5arina/opengl_tasks_2020/wiki/Home)
 11 | 25 апреля | 
 ? | 2 мая | 
 - | 9 мая | День Победы
 12 | 16 мая | 
-13 | 23 мая | [Прием задания 3](https://bitbucket.org/AndrewFedorov/opengl_samples/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
+13 | 23 мая | [Прием задания 3](https://bitbucket.org/arina5arina/opengl_tasks_2020/wiki/Home)
 
 ## Краткое руководство по встраиванию
 
