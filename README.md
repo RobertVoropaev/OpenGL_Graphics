@@ -2,11 +2,12 @@
 ## План занятий и сдач
 За изменениями следите в tg-канале.
 
+Ссылки на семинары доступны в [Wiki проекта](https://bitbucket.org/arina5arina/opengl_tasks_2020/wiki/Home).
 
 № | Дата | Тема
 -:|-------|------------------|
-1 | 08 февраля | [OpenGL pipeline](https://docs.google.com/presentation/d/18ZKk9kvYfxh9F_o5GDKR_1OE4UnPr_MUqmbpalIw5LU/edit?usp=sharing)
-2 | 15 февраля | [Шейдеры](https://docs.google.com/presentation/d/1uJYBbgDtWnDAvi_6s3Pj6oR0mVJ0XIqXm6ch5_CqGaQ/edit?usp=sharing)
+1 | 08 февраля | OpenGL pipeline
+2 | 15 февраля | Шейдеры
 - | 22 февраля | Неучебный день - олимпиада МФТИ
 3 | 29 февраля | Преобразование координат
 4 | 7 марта | [Прием задания 1](https://bitbucket.org/arina5arina/opengl_tasks_2020/wiki/Home)
