@@ -68,7 +68,7 @@ public:
         mat_ceil = glm::translate(glm::mat4(1.0f), glm::vec3(0.0f, 0.0f, 0.90f));
         _ceil->setModelMatrix(mat_ceil);
 
-        _labyrinth = loadFromFile("691VoropaevData1/models/labyrinth.obj");
+        _labyrinth = loadFromFile("691VoropaevData2/models/labyrinth.obj");
         glm::mat4 mat_lab(1.0f);
         //mat_lab = glm::translate(mat_lab, glm::vec3(0.0f, 0.0f, 0.0f));
         mat_lab = glm::rotate(mat_lab, 3.14f / 2, glm::vec3(1.0f, 0.0f, 0.0f));
@@ -77,7 +77,7 @@ public:
         //=========================================================
         //Инициализация шейдеров
 
-        _shader = std::make_shared<ShaderProgram>("691VoropaevData1/shader.vert", "691VoropaevData1/shader.frag");
+        _shader = std::make_shared<ShaderProgram>("691VoropaevData2/shader.vert", "691VoropaevData2/shader.frag");
 
         //=========================================================
         //Инициализация Uniform Buffer Object
