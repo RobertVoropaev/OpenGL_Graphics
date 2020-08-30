@@ -38,7 +38,8 @@ void scrollCallback(GLFWwindow* window, double xoffset, double yoffset)
 //======================================
 
 Application::Application() :
-        _cameraMover(std::make_shared<OrbitCameraMover>())
+        //_cameraMover(std::make_shared<OrbitCameraMover>())
+        _cameraMover(std::make_shared<FreeCameraMover>())
 {
 }
 

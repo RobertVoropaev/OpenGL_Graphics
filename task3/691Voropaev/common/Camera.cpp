@@ -89,7 +89,7 @@ void OrbitCameraMover::showOrientationParametersImgui() {
 
 FreeCameraMover::FreeCameraMover() :
         CameraMover(),
-        _pos(5.0f, 0.0f, 2.5f)
+        _pos(5.0f, 2.0f, 0.8f)
 {
     //Нам нужно как-нибудь посчитать начальную ориентацию камеры
     _rot = glm::toQuat(glm::lookAt(_pos, glm::vec3(-1.0f, -1.0f, -0.5f), glm::vec3(0.0f, 0.0f, 1.0f)));
@@ -127,7 +127,7 @@ void FreeCameraMover::handleScroll(GLFWwindow* window, double xoffset, double yo
 
 void FreeCameraMover::update(GLFWwindow* window, double dt)
 {
-    float speed = 1.0f;
+    float speed = 2.0f;
 
     //Получаем текущее направление "вперед" в мировой системе координат
     glm::vec3 forwDir = glm::vec3(0.0f, 0.0f, -1.0f) * _rot;
